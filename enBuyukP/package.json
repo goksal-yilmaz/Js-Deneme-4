@@ -1,0 +1,19 @@
+{
+  "name": "palindromik",
+  "version": "1.0.0",
+  "description": "İki yönden de aynı şekilde okunan sayılara palindromik sayılar denir. 2 haneli 2 sayıdan oluşturulabilecek en büyük palindrom değeri 9009’dur. (91 x 99)",
+  "main": "palindromik.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihaitachi0816/Js-Deneme-4.git"
+  },
+  "author": "Göksal Yılmaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihaitachi0816/Js-Deneme-4/issues"
+  },
+  "homepage": "https://github.com/uchihaitachi0816/Js-Deneme-4#readme"
+}
